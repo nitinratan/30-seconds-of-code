@@ -1,7 +1,7 @@
 [![Logo](/logo.png)](https://30secondsofcode.org/js/p/1)
 
 # 30 seconds of code!!!!!
-
+Make change for testing "changing commit"
 > Short JavaScript code snippets for all your development needs
 
 * Visit [our website](https://30secondsofcode.org) to view our snippet collection.
