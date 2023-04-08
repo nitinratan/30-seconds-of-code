@@ -1,5 +1,5 @@
 [![Logo](/logo.png)](https://30secondsofcode.org/js/p/1)
-
+From Master
 # 30 seconds of code!!!!!
 !! change from DeveloperNotin Branch for Mearge conflict cocept"
 Make change for testing "changing commit"
