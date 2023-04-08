@@ -1,5 +1,5 @@
 # Contribution Guidelines
-
+test is good
 **30 seconds of code** is powered by the community, so feel free to contribute in any way you can to help us!
 
 ## How you can help
